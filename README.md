@@ -14,7 +14,7 @@ Make sure you are using 'use_frameworks!' and/or dynamic linking ...
 
 So I create a Framework object and build an iOS framework directly. Hope it help. 
 
-> Step to use it.
+## Steps to use it.
 
 1. Run this command under Podfile
 ```
