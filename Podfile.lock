@@ -1,0 +1,12 @@
+PODS:
+  - Inlineobjc (1.0.5)
+
+DEPENDENCIES:
+  - Inlineobjc
+
+SPEC CHECKSUMS:
+  Inlineobjc: 421a4302ac39cbd4a1a60983eec9b3a3ea84d444
+
+PODFILE CHECKSUM: 95974ef90acff6252d4f155940d4687f40f6e747
+
+COCOAPODS: 1.0.1

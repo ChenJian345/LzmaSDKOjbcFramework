@@ -1,0 +1,6 @@
+framework module Pods_LzmaSDKObjC {
+  umbrella header "Pods-LzmaSDKObjC-umbrella.h"
+
+  export *
+  module * { export * }
+}
